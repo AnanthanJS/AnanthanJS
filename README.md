@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">Hello, this is Ananthakrishnan J S 👨‍💻</div>  
   
