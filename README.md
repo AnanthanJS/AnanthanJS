@@ -2,7 +2,7 @@
 <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Hello, this is Ananthakrishnan J S 👨‍💻</div>  
+### <div align="center">Hello, this is Ananthakrishnan J S 👨‍💻</div>
   
 
 - 🌱 I’m currently learning React, Progress 4GL and .NET.  
@@ -27,7 +27,7 @@
 ## My Skill Set  
 
 
-### Programming Languages  
+### Programming Languages <br>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
