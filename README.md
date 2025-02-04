@@ -1,6 +1,6 @@
 ![](https://github.com/AnanthanJS/AnanthanJS/blob/main/assets/Github_cover.png)
 # Ananthakrishnan J S
-### Software Engineer | UI Desinger | Full Stack Developer
+### Software Engineer | UI Designer | Full Stack Developer
 [![GitHub followers](https://img.shields.io/github/followers/AnanthanJS?label=Follow&style=social)]
 
 Welcome to my GitHub profile! I'm Ananthakrishnan J S, a software engineering enthusiast with a passion for building scalable and efficient solutions to solve complex problems. I am constantly expanding my skills and knowledge in software development, and I am excited to share my journey with you through my project portfolio.
