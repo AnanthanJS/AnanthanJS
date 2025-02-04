@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm Ananthakrishnan J S, a software engineering en
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnanthanJS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanJS&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnanthanJS&show_icons=true&theme=dark&utcOffset=8)](https://github.com/AnanthanJS)
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnanthanJS&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnanthanJS&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=AnanthanJS&theme=onedark)
