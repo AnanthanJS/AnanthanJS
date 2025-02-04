@@ -8,7 +8,10 @@ Welcome to my GitHub profile! I'm Ananthakrishnan J S, a software engineering en
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnanthanJS&theme=dark)](https://github.com/AnanthanJS)
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
+[![](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
+![](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/AnanthanJS)
 
 ## Skills
 - ### Languages
