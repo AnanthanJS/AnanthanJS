@@ -1,4 +1,4 @@
-![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
+![](https://github.com/AnanthanJS/AnanthanJS/blob/main/assets/Github_cover.png)
 # Ananthakrishnan J S
 ### Software Engineer | UI Desinger | Full Stack Developer
 [![GitHub followers](https://img.shields.io/github/followers/AnanthanJS?label=Follow&style=social)]
