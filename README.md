@@ -1,5 +1,4 @@
 ![](https://github.com/AnanthanJS/AnanthanJS/blob/main/assets/Github_cover.png)
-# Ananthakrishnan J S
 ### Software Engineer | UI Designer | Full Stack Developer
 [![GitHub followers](https://img.shields.io/github/followers/AnanthanJS?label=Follow&style=social)]
 
