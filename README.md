@@ -6,6 +6,19 @@ Welcome to my GitHub profile! I'm Ananthakrishnan J S, a software engineering en
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnanthanJS&theme=dark)](https://github.com/AnanthanJS)
 
+## 🚀 My Portfolio
+I recently built an interactive, terminal-themed personal portfolio. Check it out here:
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajs-terminal.vercel.app/)
+
+<a href="https://ajs-terminal.vercel.app/" target="_blank">
+  <!-- 
+    Replace the image URL below with the actual URL of your portfolio's screenshot. 
+    You can upload a screenshot to your 'assets' folder and link it here.
+  -->
+  <img src="https://github.com/AnanthanJS/AnanthanJS/blob/main/assets/portfolio-preview.png" alt="AJS Terminal Portfolio UI" width="100%">
+</a>
+
 ## IDE
 [![](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -21,7 +34,6 @@ Welcome to my GitHub profile! I'm Ananthakrishnan J S, a software engineering en
   [![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AnanthanJS)
 - ### CLT
     [![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![](https://img.shields.io/badge/Git%20Bash-4F4F4F?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/AnanthanJS)
-
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnanthanJS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanJS&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnanthanJS&show_icons=true&theme=dark&utcOffset=8)](https://github.com/AnanthanJS)
